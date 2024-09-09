@@ -1,0 +1,9 @@
+pandas
+python-docx
+openai
+spacy
+scikit-learn
+chromadb
+streamlit
+python-dotenv
+pdfplumber
