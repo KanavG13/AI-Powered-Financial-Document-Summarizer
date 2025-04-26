@@ -231,7 +231,6 @@ and so on...
 
 ## Feedabck
 
-I would love to get more feedback on this project, reach me out anytime. Peace
+We appreciate your interest in this project.
 
-
-.
+If you have any questions or feedback, please don't hesitate to reach out. Peace.
