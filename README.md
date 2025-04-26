@@ -234,7 +234,7 @@ and so on...
 
 We appreciate your interest in this project.
 
-If you have any questions or feedback, please don't hesitate to reach out.
+If you have any questions or feedback, please don't hesitate to reach out. Peace
 
 
 
