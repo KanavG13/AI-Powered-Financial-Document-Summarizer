@@ -230,12 +230,5 @@ Segments and revenue percentages: iPhone 58.2%, Services 19.3%, other products 2
 and so on...
 
 
-## Feedback Welcome
-
-We appreciate your interest in this project.
-
-If you have any questions or feedback, please don't hesitate to reach out.
-
-
 
 .
