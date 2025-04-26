@@ -229,6 +229,9 @@ Segments and revenue percentages: iPhone 58.2%, Services 19.3%, other products 2
 
 and so on...
 
+## Feedabck
+
+I would love to get more feedback on this project, reach me out anytime. Peace
 
 
 .
